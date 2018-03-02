@@ -1,3 +1,7 @@
+## 0.10.0 (release date: TODO)
+
+ * Upgraded to baseimage-docker 0.10.0 (from 0.9.22), which has some breaking changes in syslog (#425, #438).  
+
 ## 0.9.29 (release date: 2018-02-27)
 
  * Upgraded to Phusion Passenger 5.2.1 (from 5.2.0).
